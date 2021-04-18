@@ -70,6 +70,12 @@ header button {
     box-shadow: 0px 4px 12px 7px var(--text-shadow);
     transition: 0.3s;
 }
+section{
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    transform: translate(-15% ,-15%);
+}
 
 .info {
     margin: 120px 50px;
